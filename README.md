@@ -6,7 +6,7 @@ Jupyter notebooks on Julia programming created by [Milton Huang](http://emotrics
 * Plots
 
 ## MXNet
-* Multi Layer Perceptron (MLP)
+* [Multi Layer Perceptron (MLP)](mnistMLP.ipynb)
 * ConvNet
 * Recurrent Neural Net (RNN)
 
