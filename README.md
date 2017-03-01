@@ -2,11 +2,11 @@
 Jupyter notebooks on Julia programming created by [Milton Huang](http://emotrics.com/people/milton/)
 
 ## Vizualization
-* [Colors](colors.ipynb)
+* [Colors](colors.ipynb): basics of how color is used in Julia
 * Plots
 
-## MXNet
-* [Multi Layer Perceptron (MLP)](mnistMLP.ipynb)
+## [MXNet](http://github.com/dmlc/MXNet.jl)
+* [Multi Layer Perceptron (MLP)](mnistMLP.ipynb): basic use of MXNet.jl to create an MLP
 * ConvNet
 * Recurrent Neural Net (RNN)
 
