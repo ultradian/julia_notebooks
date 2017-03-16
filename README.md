@@ -6,8 +6,8 @@ Jupyter notebooks on [Julia](http://julialang.org/) programming created by [Milt
 * Plots
 
 ## [MXNet](http://github.com/dmlc/MXNet.jl)
-* [Multi Layer Perceptron (MLP)](mnistMLP.ipynb): basic use of MXNet.jl to create an MLP
-* [ConvNet](mnistLenet.ipynb): use of MXNet to create Convolutional Neural Networks
+* [Multi Layer Perceptron (MLP)](mxnet/mnistMLP.ipynb): basic use of MXNet.jl to create an MLP
+* [ConvNet](mxnet/mnistLenet.ipynb): use of MXNet to create Convolutional Neural Networks
 * Recurrent Neural Net (RNN)
 
 ------------------------
