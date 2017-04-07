@@ -4,7 +4,7 @@ the `MXNet.jl` package.
 
 * [Multi Layer Perceptron (MLP)](mnistMLP.ipynb): basic use of MXNet.jl to create an MLP (assumes basic knowledge of Julia and neural networks like backprop)
 * [ConvNet](mnistLenet.ipynb): use of MXNet to create Convolutional Neural Networks (assumes understanding of previous MLP notebook)
-* Recurrent Neural Net (RNN)
+* Recurrent Neural Net (RNN) (to be completed)
 
 ------------------------
 
