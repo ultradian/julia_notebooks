@@ -5,10 +5,12 @@ Jupyter notebooks on [Julia](http://julialang.org/) programming created by [Milt
 * [Colors](colors.ipynb): basics of how color is used in Julia
 * Plots
 
-## [MXNet](http://github.com/dmlc/MXNet.jl)
-* [Multi Layer Perceptron (MLP)](mxnet/mnistMLP.ipynb): basic use of MXNet.jl to create an MLP
-* [ConvNet](mxnet/mnistLenet.ipynb): use of MXNet to create Convolutional Neural Networks
-* Recurrent Neural Net (RNN)
+## Neural nets
+* [perceptron](perceptron.ipynb): playing with the elementary unit of a neural net
+* [MXNet](mxnet): folder of notebooks using [MXNet](http://mxnet.io/) framework
+  * [Multi Layer Perceptron (MLP)](mxnet/mnistMLP.ipynb): basic use of MXNet.jl to create an MLP
+  * [ConvNet](mxnet/mnistLenet.ipynb): use of MXNet to create Convolutional Neural Networks
+  * Recurrent Neural Net (RNN)
 
 ------------------------
 
