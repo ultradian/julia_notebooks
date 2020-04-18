@@ -1,1 +1,4 @@
 .ipynb_checkpoints/*
+.gitignore
+.directory
+covid/.ipynb_checkpoints/*

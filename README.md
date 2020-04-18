@@ -1,9 +1,12 @@
 # Julia_notebooks
 Jupyter notebooks on [Julia](http://julialang.org/) programming created by [Milton Huang](http://emotrics.com/people/milton/)
 
+## Setup
+Julia pulls in external libraries with the `using` command. If you are using a notebook on your local system, you make need to install the related package with `import Pkg` and `Pkg.add("NameOfPackage")`.
+
 ## Vizualization
 * [Colors](colors.ipynb): basics of how color is used in Julia
-* Plots
+* Plots - I have examples of [plotting using the Covid-19](covid/covid.ipynb) data from Johns Hopkins
 
 ## Neural nets
 * [perceptron](perceptron.ipynb): playing with the elementary unit of a neural net
