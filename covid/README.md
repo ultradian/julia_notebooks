@@ -1,3 +1,5 @@
+# Plotting Covid data with Julia
+
 This directory contains a Julia notebook [covid.ipynb](covid.ipynb), that downloads Covid-19 infection data from Johns Hopkins' GitHub site, https://github.com/CSSEGISandData/COVID-19.
 
 The files it pulls are:
