@@ -6,7 +6,7 @@ Julia pulls in external libraries with the `using` command. If you are using a n
 
 ## Vizualization
 * [Colors](colors.ipynb): basics of how color is used in Julia
-* Plots - I have examples of [plotting using the Covid-19](covid/) data from [Johns Hopkins](https://github.com/CSSEGISandData/COVID-19). [[Notebook](covid/covid.ipynb)] [[nbviewer](https://nbviewer.org/github/ultradian/julia_notebooks/blob/master/covid/covid.ipynb)]
+* Plots - I have examples of [plotting using the Covid-19](covid/) data from [Johns Hopkins' data repository](https://github.com/CSSEGISandData/COVID-19). [[Notebook](covid/covid.ipynb)] [[nbviewer](https://nbviewer.org/github/ultradian/julia_notebooks/blob/master/covid/covid.ipynb)]
 
 ## Neural nets
 * [perceptron](perceptron.ipynb) [[nbviewer](https://nbviewer.org/github/ultradian/julia_notebooks/blob/master/perceptron.ipynb)]: playing with the elementary unit of a neural net
